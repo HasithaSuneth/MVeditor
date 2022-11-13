@@ -11,7 +11,7 @@ https://user-images.githubusercontent.com/87106402/201513662-597ee3d5-1953-40ee-
 - Movie Details Finder
 - Movie Mover (Gather movies into different directories according to their language.)
 - SearchER Database Updater (What is [SearchER](https://github.com/HasithaSuneth/SearchER-Film-Category-Database)?)
-- Movie Folder Icon Creater
+- Movie Folder Icon Creator
 
 ## Procedure
 
